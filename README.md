@@ -3,6 +3,8 @@ Hi 👋, I'm Alok Kharwar  <br>🎓 2nd Year Student  <br>💻 Learning MERN Sta
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kharwar-282b08328) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alokk2005)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/alok_2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alok.860111@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,4 +14,6 @@ Hi 👋, I'm Alok Kharwar  <br>🎓 2nd Year Student  <br>💻 Learning MERN Sta
 ![](https://nirzak-streak-stats.vercel.app/?user=alokxkh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alokxkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/alokxkh/alokxkh/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
