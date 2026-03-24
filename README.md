@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Alok Kharwar  <br>🎓 2nd Year Student  <br>💻 Learning MERN Stack Development  <br>🌱 Currently exploring Data Structures & Algorithms  <br>🚀 Interested in Web Development and Open Source  <br><br>📫 Reach me at: alok.860111@gmail.com
+Hi , I'm Alok Kharwar  <br>🎓 2nd Year Student  <br>💻 Learning MERN Stack Development  <br>🌱 Currently exploring Data Structures & Algorithms  <br>🚀 Interested in Web Development and Open Source  <br><br>📫 Reach me at: alok.860111@gmail.com
 
 
 ## 🌐 Socials:
