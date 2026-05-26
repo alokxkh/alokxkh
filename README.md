@@ -38,11 +38,11 @@ contact    : alok.860111@gmail.com
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alokxkh.space-00FF9D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0c10)](https://alokxkh.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C4FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0c10)](https://www.linkedin.com/in/alok-kharwar-282b08328)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-00FF9D?style=for-the-badge&logo=telegram&logoColor=black&labelColor=0a0c10)](https://t.me/alokk2005)
-[![Reddit](https://img.shields.io/badge/Reddit-Follow-FF6B6B?style=for-the-badge&logo=reddit&logoColor=black&labelColor=0a0c10)](https://reddit.com/user/alok_2005)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-00C4FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0c10)](mailto:alok.860111@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://alokxkh.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kharwar-282b08328)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alokk2005)
+[![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/alok_2005)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alok.860111@gmail.com)
 
 </div>
 
